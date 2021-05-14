@@ -1,0 +1,10 @@
+
+
+
+train: ./----
+valid: ./----
+
+
+nc :
+
+classes=[]
